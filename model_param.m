@@ -1,0 +1,31 @@
+classdef model_param < handle
+    properties
+       model_name
+       rm1
+       rm2
+       vm1
+       vm2 
+       vm
+       s1
+       s2
+       alpha1
+       alpha2
+       lda
+       c1
+       c2
+       tfinal
+       len
+       x
+       dx
+       lambda
+       dt
+       t
+       M
+       N
+       d1l
+       d2l
+       d1r
+       d2r
+       pce
+    end
+end
